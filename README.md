@@ -1,4 +1,4 @@
-TUS Server
+Cloudflare Resumable Upload Server
 ==========
 
 tus-server provides an implementation of the [TUS protocol](https://tus.io) for resumable uploads built on [cloudflare workers](https://www.cloudflare.com/products/workers/) and [R2](https://www.cloudflare.com/products/r2/). 
